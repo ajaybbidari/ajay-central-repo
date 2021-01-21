@@ -1,2 +1,2 @@
 # ajay-central-repo
-This is my firts github experience
+This is my first github experience
